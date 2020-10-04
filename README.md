@@ -1,1 +1,1 @@
-# CpuInst.github-io
+# CpuInst.github.io
